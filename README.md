@@ -11,7 +11,7 @@ MERN(MongoDB,Express.js,React,Node.js) Stack framework was used to deploy this w
 
 React:
 
-Creating the dynamic client side application using HTML was done in React. React helped me build up complex interfaces 
+Creating the dynamic client side application using React. React helped me build up complex interfaces 
 through simple components,connect them to data on my back-end server, and render them as HTML.
 
 Express.js/Node.js:
